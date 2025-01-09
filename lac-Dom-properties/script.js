@@ -5,6 +5,8 @@
 
 let divs = document.querySelectorAll(".box");
 console.log(divs);
+
+
 // divs[0].innerText = "I'm Adeel.";
 // divs[1].innerText = "I'm Faizi.";
 // divs[2].innerText = "I'm Bux.";

@@ -1,0 +1,20 @@
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: aqua;
+    border: 1px solid black;
+}
+.box1{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    background-color: blue;
+}
+#heading{
+    background-color: blue;
+    color: aliceblue;
+}
+p{
+    background-color: yellow;
+}
