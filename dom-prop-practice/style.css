@@ -1,0 +1,13 @@
+
+.para{
+    color: red;
+    background-color: yellow;
+    border: 1px solid black;
+    padding: 5px;
+}
+.content{
+    /* color: white; */
+    background-color: rgb(0, 60, 255);
+
+    padding: 10px;
+}
