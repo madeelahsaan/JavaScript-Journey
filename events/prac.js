@@ -27,7 +27,7 @@ btn.addEventListener("click", () => {
     } else {
         currmode = "light";
         body.classList.add("light")
-        body.classList.remove("dark");
+        bodyR.classList.remove("dark");
     }
     console.log(currmode);
 });
